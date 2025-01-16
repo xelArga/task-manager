@@ -1,4 +1,4 @@
-# Getting the Docker Container Started
+## Getting the Docker Container Started
 1. Make sure you have docker installed on your computer
 2. Navigate to the main folder
 3. Run `docker compose up` in the terminal

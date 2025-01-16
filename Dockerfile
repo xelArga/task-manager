@@ -1,6 +1,5 @@
 FROM node:18-alpine
 
-#change this to the name we decide
 WORKDIR /app
 
 ENV NODE_ENV=development
