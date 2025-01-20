@@ -19,6 +19,7 @@ services:
       - 3000:3000
     command: npm run dev
     volumes:
+      - /app/node_modules
       - type: bind
         source: ./
         target: /app
